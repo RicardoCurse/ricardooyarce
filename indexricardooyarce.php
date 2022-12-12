@@ -4,7 +4,7 @@
 
 </head>
 <body
-     bgcolor="sky blue"      wena shoro
+     bgcolor="sky blue"     
 	 text="black">
 </center>
 
